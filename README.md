@@ -1,2 +1,2 @@
-# proeect
+# project
 speakers
